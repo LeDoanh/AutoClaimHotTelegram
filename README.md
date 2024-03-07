@@ -9,3 +9,4 @@ Cách dùng:
 Lưu ý:
   - Lúc bot chạy không được ẩn app Hot đi
   - Không được tắt terminal của file run.bat
+  - Bot không chạy được nếu để app hop trên màn hình phụ
