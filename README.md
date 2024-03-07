@@ -2,7 +2,7 @@
 
 Cách dùng:
   - Cái python12 từ store windows.
-  - Mở file run.bat cấu hình thời gian bắt đầu (--start=[HH:mm]) và thời gian lặp lại (--step=[HH])
+  - Chỉnh sửa file run.bat cấu hình thời gian bắt đầu (--start=[HH:mm]) và thời gian lặp lại (--step=[HH])
   - Mở các app Hot sẳn
   - Chạy file run.bat
 
